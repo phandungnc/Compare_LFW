@@ -1,0 +1,6 @@
+Môi trường thực hành: sử dụng Google Colab
+Thư mục lfw chứa data về bộ dữ liệu Labeled Faces in the Wild
+Trong Google Drive, tải thư mục dữ liệu lfw lên, đặt trong đường dẫn MyDrive/Colab Notebooks/lfw
+Ngôn ngữ: Python 3.11
+Sử dụng thư viện tensorflow 2.12
+Ngoài ra cần import các thư viện cần thiết khác như DeepFace, tqdm, pandas... đã được ghi rõ trong code
